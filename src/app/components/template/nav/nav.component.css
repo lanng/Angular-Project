@@ -1,0 +1,14 @@
+.sidenav {
+    background-color: #7b1fa2;
+    width: 200px;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    /*background-color: #FFF; !* teste p/ a cor de fundo ser banco mudar apos. *!*/
+    /*color: black;*/
+}
